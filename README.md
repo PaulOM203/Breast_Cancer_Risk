@@ -12,14 +12,18 @@
 - Binary Classification
 
 # Notebooks: 
-1. DataClean_BCRP("Data Clean_BCRP.ipynb")
+1. [DataClean_BCRP]("Data Clean_BCRP.ipynb")
 - Identify the type of data within the dataset and how to handle this information for EDA
-2. ExploratoryDataAnalysis_BCRP("Exploratory Data Analysis_BCRP.ipynb")
+
+2. [ExploratoryDataAnalysis_BCRP]("Exploratory Data Analysis_BCRP.ipynb")
 - Assess the relationship between data variables and derive knowledge from this data exploration for the pre-processing phase 
-3. DataPreprocessing_BCRP("DataPreprocessing_BCRP.ipynb")
+
+3. [DataPreprocessing_BCRP]("DataPreprocessing_BCRP.ipynb")
 - Identify the most predictive features of the data and begin transformation for dimensionality reduction in preparation for the SVM model
-4. PredictiveModelSVM_BCRP("PredictiveModelSVM_BCRP.ipynb")
+
+4. [PredictiveModelSVM_BCRP]("PredictiveModelSVM_BCRP.ipynb")
 - Construct a SVM machine learning algorithm to predict the diagnosis of a breast tumour. 
 - Evaluate the model using confusion matrix, receiver operating curves (ROC)
-5. OptimizingSVMClassifier("OptimizingSVMClassifier_BCRP.ipynb")
+
+5. [OptimizingSVMClassifier]("OptimizingSVMClassifier_BCRP.ipynb")
 - Tune the parameters of the SVM classification model
