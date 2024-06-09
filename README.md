@@ -12,10 +12,10 @@
 - Binary Classification
 
 ## Notebooks: 
-1. [DataClean_BCRP](Data Clean_BCRP.ipynb)
+1. [DataClean_BCRP](DataClean_BCRP.ipynb)
 - Identify the type of data within the dataset and how to handle this information for EDA
 
-2. [ExploratoryDataAnalysis_BCRP](Exploratory Data Analysis_BCRP.ipynb)
+2. [ExploratoryDataAnalysis_BCRP](ExploratoryDataAnalysis_BCRP.ipynb)
 - Assess the relationship between data variables and derive knowledge from this data exploration for the pre-processing phase 
 
 3. [DataPreprocessing_BCRP](DataPreprocessing_BCRP.ipynb)
